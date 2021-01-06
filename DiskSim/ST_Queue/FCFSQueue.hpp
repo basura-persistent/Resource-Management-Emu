@@ -1,6 +1,4 @@
-//
-// Created by Ali A. Kooshesh on 10/1/18.
-//
+
 
 #ifndef FCFS_QUEUE_FCFSQUEUE_HPP
 #define FCFS_QUEUE_FCFSQUEUE_HPP
