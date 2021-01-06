@@ -1,6 +1,4 @@
-//
-// Created by Ali A. Kooshesh on 10/1/18.
-//
+
 
 #include "FCFSQueueNode.hpp"
 
