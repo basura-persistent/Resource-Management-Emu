@@ -1,6 +1,4 @@
-//
-// Created by Ali A. Kooshesh on 10/1/18.
-//
+/
 
 #include "FCFSQueue.hpp"
 #include "../CommonFiles/Request.hpp"
