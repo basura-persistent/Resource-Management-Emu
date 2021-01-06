@@ -1,6 +1,4 @@
-//
-// Created by Ali A. Kooshesh on 10/1/18.
-//
+
 
 #ifndef QUEUE_HPP
 #define QUEUE_HPP
