@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/ST_Queue/main.cpp
+iostream
+-
+

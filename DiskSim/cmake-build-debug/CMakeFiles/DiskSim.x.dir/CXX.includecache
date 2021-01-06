@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/CommonFiles/Queue.hpp
+
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/CommonFiles/Request.hpp
+
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/FCFS_Queue/FCFSQueue.hpp
+iostream
+-
+../CommonFiles/Queue.hpp
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/CommonFiles/Queue.hpp
+FCFSQueueNode.hpp
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/FCFS_Queue/FCFSQueueNode.hpp
+
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/FCFS_Queue/FCFSQueueNode.hpp
+
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/FCFS_Queue/main.cpp
+iostream
+-
+fstream
+-
+random
+-
+cstdlib
+-
+unistd.h
+-
+../CommonFiles/Request.hpp
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/CommonFiles/Request.hpp
+FCFSQueue.hpp
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/FCFS_Queue/FCFSQueue.hpp
+

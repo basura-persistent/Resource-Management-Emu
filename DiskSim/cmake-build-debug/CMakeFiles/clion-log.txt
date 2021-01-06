@@ -1,0 +1,16 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim
+-- Configuring done
+CMake Error at CMakeLists.txt:7 (add_executable):
+  Cannot find source file:
+
+    ST_Queue/main.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:7 (add_executable):
+  No SOURCES given to target: st.x
+
+
+-- Build files have been written to: /Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/cmake-build-debug

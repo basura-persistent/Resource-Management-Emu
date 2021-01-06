@@ -1,0 +1,4 @@
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/cmake-build-debug/CMakeFiles/st.x.dir
+/Users/kooshesh/Courses/2020fall/cs315/diskSim/studentFiles/DiskSim/cmake-build-debug/CMakeFiles/fcfs.x.dir
